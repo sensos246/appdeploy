@@ -29,7 +29,3 @@ else
     exit 1
 fi
 
-# Clean up temporary files
-echo "Cleaning up..."
-rm -rf "$TEMP_DIR"
-echo "Done."
